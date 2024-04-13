@@ -9,7 +9,7 @@
     margin: 0;
 padding: 0;
 height:92.9vh;
-background-image: url("../../img/background.webp");
+background-image: url(/img/background.webp);
 background-position: center;
 background-size: cover;
 }
